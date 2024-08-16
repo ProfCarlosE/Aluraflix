@@ -2,6 +2,8 @@ body {
     color: yellow;
     background: black;
     margin: 0px
+    font-family: "Chakra", sans-serif;
+
 }
 header {
     border-bottom: solid 2px rgb(214, 214, 13 );
@@ -11,3 +13,23 @@ header {
 
 }
 
+section{
+    background-color: blueviolet;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+h1 {
+    font-size: 40px;
+  }
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+p {
+    font-size: 20px;
+  }
